@@ -23,7 +23,7 @@
 
 # now we will see in pandas 
 import pandas as pd
-df = pd.read_csv("C://Users/Zeeshu/Desktop/data science/7.1/nyc_weather.csv")
+df = pd.read_csv("C://Users/Apolloniann/Desktop/data science/7.1/nyc_weather.csv")
 df.tail()
 
 
